@@ -1,0 +1,6 @@
+# Dane pobierane przez Kaggle API - nie commitować do repo
+*.zip
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
