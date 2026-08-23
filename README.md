@@ -1,9 +1,9 @@
 # Classification, Decision Trees, and Clustering
 
-## Objective
+## 🎯 Objective
 A set of supervised and unsupervised Machine Learning projects covering credit card fraud detection, medical classification, and customer segmentation.
 
-## Content
+## 📊 Content
 
 ### 1. Credit Card Fraud Detection — Random Forest
 - Dataset: [Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
@@ -22,10 +22,10 @@ A set of supervised and unsupervised Machine Learning projects covering credit c
 - Dataset: [Credit Card Customer Attrition](https://www.kaggle.com/datasets/thedevastator/predicting-credit-card-customer-attrition-with-m)
 - Data normalization and application of the elbow method (inertia) to select the optimal number of clusters
 
-## Technologies
+## 🧰 Technologies
 `Python` `scikit-learn` `pandas` `pickle` `matplotlib`
 
-## How to Run
+## ⚙️ How to Run
 ```bash
 pip install scikit-learn pandas numpy matplotlib kaggle
 jupyter notebook "analiza fraud karty kredytowe - random forest.ipynb"
