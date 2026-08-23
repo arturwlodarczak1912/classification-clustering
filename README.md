@@ -3,7 +3,7 @@
 ## 🎯 Objective
 A set of supervised and unsupervised Machine Learning projects covering credit card fraud detection, medical classification, and customer segmentation.
 
-## 📊 Content
+## 📋 Content
 
 ### 1. Credit Card Fraud Detection — Random Forest
 - Dataset: [Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
